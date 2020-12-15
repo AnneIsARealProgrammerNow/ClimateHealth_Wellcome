@@ -6,3 +6,8 @@ The script contains both the code for machine learning (active_learning_with_eva
 The project makes used of the NACSOS platform (https://zenodo.org/record/4121526) to retreive the documents. 
 
 Please refer to the Wellcome Open Research article for further information, or contact the authors.
+
+
+
+[![DOI](https://zenodo.org/badge/321371749.svg)](https://zenodo.org/badge/latestdoi/321371749)
+
